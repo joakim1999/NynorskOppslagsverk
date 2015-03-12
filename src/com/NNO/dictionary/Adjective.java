@@ -7,7 +7,7 @@ public class Adjective {
 	public Adjective(String a){
 		adjective = a.split(" ")[1];
 		adjective = adjective.replaceAll("_", " ");
-		conjugate = a.split(" ")[2];
+		conjugate = adjective + ", " + a.split(" ")[2];
 		conjugate = conjugate.replaceAll("_", " ");
 	}
 	

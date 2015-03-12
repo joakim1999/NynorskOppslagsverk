@@ -1,19 +1,21 @@
 package com.NNO.dictionary;
 
 public class Noun{
+	String article;
 	String noun;
 	String conjugate;
 	
 	public Noun(String n){
-		noun = n.split(" ")[1];
+		article = n.split(" ")[1];
+		noun = n.split(" ")[2];
 		noun = noun.replaceAll("_", " ");
-		conjugate = n.split(" ")[2];
+		conjugate = article + " " + noun + ", " + n.split(" ")[3];
 		conjugate = conjugate.replaceAll("_", " ");
 	}
 	
 	public String toString(){
 		return this.getClass().getSimpleName().toUpperCase() + "\n"
-			  + noun + "\n"
+			  + article + " " + noun + "\n"
 			  + conjugate;
 	}
 }

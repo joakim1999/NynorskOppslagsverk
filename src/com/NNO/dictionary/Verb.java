@@ -7,7 +7,7 @@ public class Verb {
 	public Verb(String v){
 		verb = v.split(" ")[1];
 		verb = verb.replaceAll("_", " ");
-		conjugate = v.split(" ")[2];
+		conjugate = verb + ", " + v.split(" ")[2];
 		conjugate = conjugate.replaceAll("_", " ");
 	}
 	

@@ -13,7 +13,6 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 		load = new LoadDictionary();
 		while(true){
-			System.out.println("Skriv inn et nynorsk ord");
 			String answer = sc.nextLine();
 			
 			Dictionary dict = load.loadDicitionary(answer.charAt(0));

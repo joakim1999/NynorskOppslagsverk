@@ -13,6 +13,6 @@ public class Replacement {
 	
 	public String toString(){
 		return this.getClass().getSimpleName().toUpperCase() + "\n"
-			  + original + "-" + replacement + "\n";
+			  + original + " -> " + replacement;
 	}
 }
