@@ -5,7 +5,15 @@ public class Noun{
 	String conjugate;
 	
 	public Noun(String n){
-		noun = n.split(" ")[0];
-		conjugate = n.split(" ")[1];
+		noun = n.split(" ")[1];
+		noun = noun.replaceAll("_", " ");
+		conjugate = n.split(" ")[2];
+		conjugate = conjugate.replaceAll("_", " ");
+	}
+	
+	public String toString(){
+		return this.getClass().getSimpleName().toUpperCase() + "\n"
+			  + noun + "\n"
+			  + conjugate;
 	}
 }

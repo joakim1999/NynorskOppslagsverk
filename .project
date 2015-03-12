@@ -2,6 +2,13 @@
 <projectDescription>
 	<name>NynorskOppslagsverk</name>
 	<comment></comment>
+	<buildSpec>
+    		<buildCommand>
+    			<name>org.eclipse.jdt.core.javabuilder</name>
+    			<arguments>
+    			</arguments>
+    		</buildCommand>
+	</buildSpec>
 	<projects>
 	</projects>
 	<buildSpec>

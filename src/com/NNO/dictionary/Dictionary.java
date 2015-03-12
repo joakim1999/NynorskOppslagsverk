@@ -34,10 +34,23 @@ public class Dictionary {
 	}
 	
 	public String search(String word){
-		searchForVerb(word);
-		searchForNoun(word);
-		searchForAdjective(word);
-		searchForReplacement(word);
+		Verb verb = searchForVerb(word);
+		if(verb != null){
+			return verb.toString();
+		}
+		Noun noun = searchForNoun(word);
+		if(noun != null){
+			return noun.toString();
+		}
+		Adjective adjective = searchForAdjective(word);
+		if(adjective != null){
+			return adjective.toString();
+		}
+		Replacement rep = searchForReplacement(word);
+		if(rep != null){
+			return rep.toString();
+		}
+		return null;
 	}
 	
 	public Verb searchForVerb(String verb){

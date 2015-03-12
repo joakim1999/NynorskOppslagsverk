@@ -5,13 +5,15 @@ public class Verb {
 	String conjugate;
 	
 	public Verb(String v){
-		verb = v.split(" ")[0];
-		conjugate = v.split(" ")[1];
+		verb = v.split(" ")[1];
+		verb = verb.replaceAll("_", " ");
+		conjugate = v.split(" ")[2];
+		conjugate = conjugate.replaceAll("_", " ");
 	}
 	
 	public String toString(){
 		return this.getClass().getSimpleName().toUpperCase() + "\n"
 			  + verb + "\n"
-			  + conjugate + "\n";
+			  + conjugate;
 	}
 }
