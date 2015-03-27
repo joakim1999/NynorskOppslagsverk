@@ -1,99 +1,201 @@
-[noun] ein abbed abbeden,_abbedar,_abbedane_(klosterleiar)
+[noun] ein abbed abbeden,abbedar,abbedane (klosterleiar)
 [replacement] abbor åbor
-[noun] ei abc abc-a,_abc-er,_abc-en_("abc-bok")
-[verb] abdisere abdiserer,_abdiserte,_har_abdisert_("kongen_abdiserte":_gjekk_av)
-[noun] nokon ablegøyer ablegøyene_(narrestrekar)
-[adjective] abnorm abnorm,_abnormt,_abnorme_(unormal)
-[noun] ei a-bombe a-bomba,_a-bomber,_a-bombene_(atombombe)
-[noun] eit abonnement abonnementet,_abonnement,_abonnementa_(tinging)
-[noun] ein abonnent abonnenten,_abonnentar,_abonnentane_(tingar)
-[verb] abonnere abonnerer,_abonnerte,_har_abonnert_(tinge)
-[noun] ein abort aborten,_abortar,_abortane_(svangerskapsavbrot)
-[verb] abortere aborterer,_aborterte,_har_abortert
-[adjective] absolutt absolutte_(vilkårslaus,_for_all_del)
-[verb] absorbere absorberer,_absorberte,_har_absorbert_(ta_opp_i_seg)
+[noun] ei abc abc-a,abc-er,abc-en ("abc-bok")
+[verb] abdisere abdiserer,abdiserte,har abdisert ("kongen_abdiserte":_gjekk_av)
+[noun] nokon ablegøyer ablegøyene (narrestrekar)
+[adjective] abnorm abnorm,abnormt,abnorme (unormal)
+[noun] ei a-bombe a-bomba,a-bomber,a-bombene (atombombe)
+[noun] eit abonnement abonnementet,abonnement,abonnementa (tinging)
+[noun] ein abonnent abonnenten,abonnentar,abonnentane (tingar)
+[verb] abonnere abonnerer,abonnerte,har abonnert (tinge)
+[noun] ein abort aborten,abortar,abortane (svangerskapsavbrot)
+[verb] abortere aborterer,aborterte,har abortert
+[adjective] absolutt absolutte (vilkårslaus,for all del)
+[verb] absorbere absorberer,absorberte,har_absorbert_(ta_opp_i_seg)
 [noun] ein abstinens abstinensen_("abstinensvanskar":_vanskar_med_å_venje_seg_av_med_noko)
 [adjective] abstrakt abstrakte_(uhandgripeleg;_motsett:_konkret)
 [adjective] absurd absurde_(meiningslaus)
-[noun] ein addend addenden,_addendar,_addendane_(tal_som_skal_leggjast_saman)
-[verb] addere adderer,_adderte,_har_addert_(leggje_saman)
+[noun] ein addend addenden,addendar,addendane_(tal_som_skal_leggjast_saman)
+[verb] addere adderer,adderte,har_addert_(leggje_saman)
 [noun] ein addisjon addisjonen_(samanlegging)
-[adjective] adekvat adekvate_(passande, høveleg)
-[noun] ein adel adelen_(høgare_samfunnsklasse,_adelskap)
+[adjective] adekvat adekvate_(passande,høveleg)
+[noun] ein adel adelen_(høgare_samfunnsklasse,adelskap)
 [adjective] adeleg adelege
 [noun] eit adelskap adelskapet_(adelsstand)
 [replacement] adferd åtferd_eller_framferd
 [replacement] adgang tilgjenge;_høve_(høve til)
 [replacement] adkomst tilgjenge
-[noun] eit adjektiv adjektivet,_adjektiv,_adjektiva_(ordklasse)
+[noun] eit adjektiv adjektivet,adjektiv,adjektiva_(ordklasse)
 [adjective] adjektivisk adjektiviske
-[noun] ein adjunkt adjunkten,_adjunktar,_adjunktane_(lærartittel)
+[noun] ein adjunkt adjunkten,adjunktar,adjunktane_(lærartittel)
 [replacement] adlyde lyde_eller_lystre
-[noun] ein administrasjon adiministrasjonen,_administrasjonar,_administrasjonane_(leiing)
-[verb] administrere administrerer,_administrerte,_har_administrert_(styre,_leie)
-[noun] ein admiral admiralen,_admiralar,_admiralane_(høg offiser)
-[noun] ein adopsjon adopsjonen,_adopsjonar,_adopsjonane
-[verb] adoptere adopterer,_adopterte,_har_adoptert_(ta_til_seg_som_sitt_eige_barn)
-[noun] eit adrenalin adrenalinet_(hormon,_legermiddel)
-[noun] ei adresse adressa,_adresser,_adressane_(tilskrift)
-[verb] adressere adresserer,_adresserte,_har_adressert_(setje_adresse_på)
+[noun] ein administrasjon adiministrasjonen,administrasjonar,administrasjonane_(leiing)
+[verb] administrere administrerer,administrerte,har_administrert_(styre,leie)
+[noun] ein admiral admiralen,admiralar,admiralane_(høg offiser)
+[noun] ein adopsjon adopsjonen,adopsjonar,adopsjonane
+[verb] adoptere adopterer,adopterte,har_adoptert_(ta_til_seg_som_sitt_eige_barn)
+[noun] eit adrenalin adrenalinet_(hormon,legermiddel)
+[noun] ei adresse adressa,adresser,adressane_(tilskrift)
+[verb] adressere adresserer,adresserte,har_adressert_(setje_adresse_på)
 [replacement] adskille skilje
 [replacement] adskillig atskilleg
 [replacement] advare åtvare
 [replacement] advarsel åtvaring
 [noun] ei advent adventa_(dei_siste_fire_vekene_før_jul)
-[noun] eit adverb adverbet,_adverb,_adverba_(ordklasse)
-[noun] eit adverbial adverbialet,_adverbial,_adverbiala_(setningsledd)
-[noun] ein advokat advokaten,_advokatar,_advokatane_(sakførar)
+[noun] eit adverb adverbet,adverb,adverba_(ordklasse)
+[noun] eit adverbial adverbialet,adverbial,adverbiala_(setningsledd)
+[noun] ein advokat advokaten,advokatar,advokatane_(sakførar)
 [noun] ein aerobic aerobicen_(mosjonsgymnastikk_til_musikk)
 [noun] ein afasi afasien_(tap_av_taleevne)
 [noun] ein affekt affekten_("kome i affekt":_bli_sterkt_opphissa)
-[adjective] affektert affekterte_(tilgjord,_unaturleg)
-[noun] ein affære affæren,_affærar,_affærane_(sak)
-[noun] ein afghan(ar) afghan(ar)en,_afghan(ar)ar,_afghan(ar)ane
+[adjective] affektert affekterte_(tilgjord,unaturleg)
+[noun] ein affære affæren,affærar,affærane_(sak)
+[noun] ein afghanar afghan(ar)en,afghan(ar)ar,afghan(ar)ane
+[noun] ein afghan afghan(ar)en,afghan(ar)ar,afghan(ar)ane
 [adjective] afghansk afghanske
-[noun] ein afrikan(ar) afrikan(ar)en,_afrikan(ar)ar,_afrikan(ar)ane
+[noun] ein afrikan(ar) afrikan(ar)en,afrikan(ar)ar,afrikan(ar)ane
 [adjective] afrikansk afrikanske
-[noun] ein aftan aftanen,_aftnar,_aftnane_(eftan)
+[noun] ein aftan aftanen,aftnar,aftnane_(eftan)
 [replacement] aften aftan_eller_kveld
 [noun] ein age agen_(respekt)
-[noun] ein agenda agendaen,_agendaer,_agendaene_(sak)
-[noun] ein agent agenten,_agentar,_agentane_(seljar;_spion)
-[verb] agere agerer,_agerte,_har_agert_(opptre,_spele)
-[noun] eit agg affet_(motvilje,_nag)
-[noun] ein aggresjon aggresjonen_(åtak,_sinne)
-[adjective] aggressiv aggressivt,_aggressive_(trugande,_pågåande)
-[verb] agitere agiterer,_agiterte,_har_agitert_(påverke_ved_overtaling)
-[noun] eit agn agnet,_agn,_agna_(lokkemat)
-[noun] ein agronom agronomen,_agronomar,_agronomane_(person_med_jordbruksutdanning)
-[noun] ein agurk agurken,_agurkar,_agurkane
+[noun] ein agenda agendaen,agendaer,agendaene_(sak)
+[noun] ein agent agenten,agentar,agentane_(seljar;_spion)
+[verb] agere agerer,agerte,har_agert_(opptre,spele)
+[noun] eit agg affet_(motvilje,nag)
+[noun] ein aggresjon aggresjonen_(åtak,sinne)
+[adjective] aggressiv aggressivt,aggressive_(trugande,pågåande)
+[verb] agitere agiterer,agiterte,har_agitert_(påverke_ved_overtaling)
+[noun] eit agn agnet,agn,agna_(lokkemat)
+[noun] ein agronom agronomen,agronomar,agronomane_(person_med_jordbruksutdanning)
+[noun] ein agurk agurken,agurkar,agurkane
 [noun] ein aids aidsen_(sjukdom:_acquired_immune_deficiency_syndrom)
 [replacement] (aircondition(ing)) klimaanlegg
-[noun] eit akademi akademiet,_akademi,_akademia_(høgre_lærestad)
-[noun] ein akademikar akademikaren,_akademikarar,_akademikarane_(person_med_universitetsutdanning)
-[verb] ake ek,_ok,_har_eke_(eller)_eki;_(eller)_akar,_aka,_har_aka_("ake_på_kjelke")
+[noun] eit akademi akademiet,akademi,akademia_(høgre_lærestad)
+[noun] ein akademikar akademikaren,akademikarar,akademikarane_(person_med_universitetsutdanning)
+[verb] ake ek,ok,har_eke_(eller)_eki;_(eller)_akar,aka,har_aka_("ake_på_kjelke")
 [noun] ein akevitt akevitten_(krydderbrennevin)
-[noun] ein akkar akkaren,_akkarar,_akkarane_(blekksprut)
-[noun] ein akklamasjon akklamasjonen,_akklamasjonar,_akklamasjonane_(klapping)
-[verb] akkompagnere akkompagnerer,_akkompagnerte,_har akkompagnert_(spele til song)
-[noun] ein akkord akkorden,_akkordar,_akkordane_(arbeidsavtale;_samklang)
-[verb] akkumulere akkumulerer,_akkumulerte,_har_akkumulert_(samle,_lagre)
-[noun] ein akkusativ akkusativen,_akkusativar,_akkusativane_(kasus_for_objekt)
-[noun] ein akrobat akrobaten,_akrobatar,_akrobatane_("sirkusakrobat")
-[noun] eit aks akset,_aks,_aksa_("akset på eit kornstrå")
-[noun] ein akse aksen,_aksar,_aksane_(tenkt_linje)
-[noun] ein aksel akselen,_akslar,_akslane_(aksling)
-[noun] ei aksel aksla,_aksler,_akslane_(skulder)
-[verb] akselerere akselererer,_akselererte,_har_akselerert_(auke_farten)
-[noun] ein aksent aksenten,_aksentar,_aksentane_(trykk_på_ord_eller_staving;_talemusikk)
-[adjective] akseptabel akseptabelt,_akseptable_(som_kan_godtakast)
-[verb] akseptere aksepterer,_aksepterte,_har_akseptert_(godta)
-[noun] ein aksje aksjen,_aksjar,_aksjane_(eigardel,_lut)
-[noun] eit aksjeselskap -selskapet,_-selskap,_-selskapa_(lutlag)
-[noun] ein aksjon aksjonen,_aksjonar,_aksjonane_(handling)
-[verb] aksjonere aksjonerer,_aksjonerte,_har_aksjonert_(handle,_gå_til_aksjon)
-[noun] ein aksjonær aksjonæren,_aksjonærar,_aksjonærane_(aksjeeigar)
-[noun] ein aksling akslingen,_akslingar,_akslingane_(aksel)
-[noun] ei akt akta,_akter,_aktene_(del_av_skodespel;_bilete_av_nakenmodell)
-[verb] akte aktar,_akta,_har_akta_(bry_seg_om,_ære;_tenkje_seg_til)
+[noun] ein akkar akkaren,akkarar,akkarane_(blekksprut)
+[noun] ein akklamasjon akklamasjonen,akklamasjonar,akklamasjonane_(klapping)
+[verb] akkompagnere akkompagnerer,akkompagnerte,har akkompagnert_(spele til song)
+[noun] ein akkord akkorden,akkordar,akkordane_(arbeidsavtale;_samklang)
+[verb] akkumulere akkumulerer,akkumulerte,har_akkumulert_(samle,lagre)
+[noun] ein akkusativ akkusativen,akkusativar,akkusativane_(kasus_for_objekt)
+[noun] ein akrobat akrobaten,akrobatar,akrobatane_("sirkusakrobat")
+[noun] eit aks akset,aks,aksa_("akset på eit kornstrå")
+[noun] ein akse aksen,aksar,aksane_(tenkt_linje)
+[noun] ein aksel akselen,akslar,akslane_(aksling)
+[noun] ei aksel aksla,aksler,akslane_(skulder)
+[verb] akselerere akselererer,akselererte,har_akselerert_(auke_farten)
+[noun] ein aksent aksenten,aksentar,aksentane_(trykk_på_ord_eller_staving;_talemusikk)
+[adjective] akseptabel akseptabelt,akseptable_(som_kan_godtakast)
+[verb] akseptere aksepterer,aksepterte,har_akseptert_(godta)
+[noun] ein aksje aksjen,aksjar,aksjane_(eigardel,lut)
+[noun] eit aksjeselskap -selskapet,-selskap,-selskapa_(lutlag)
+[noun] ein aksjon aksjonen,aksjonar,aksjonane_(handling)
+[verb] aksjonere aksjonerer,aksjonerte,har_aksjonert_(handle,gå_til_aksjon)
+[noun] ein aksjonær aksjonæren,aksjonærar,aksjonærane_(aksjeeigar)
+[noun] ein aksling akslingen,akslingar,akslingane_(aksel)
+[noun] ei akt akta,akter,aktene_(del_av_skodespel;_bilete_av_nakenmodell)
+[verb] akte aktar,akta,har akta (bry seg om,ære; tenkje seg til)
 [replacement] aktelse vørnad
+[adjective] aktiv aktivt,aktive (verksam,ivrig; motsett: passiv)
+[verb] aktivisere aktiviserer,aktiviserte,har aktivisert (setje i arbeid)
+[noun] ein aktivist aktivisten,aktivistar,aktivistane
+[noun] aktivitet aktiviteten,aktivitetar,aktivitetane (verksemd)
+[adjective] aktlaus aktlaust,aktlause (respektlaus)
+[noun] ei aktløyse aktløysa (tankeløyse)
+[noun] ein aktor aktoren,aktorar,aktorane (offentleg klagar i ei straffesak)
+[adjective] aktsam aktsamt,aktsame (passeleg,varsam)
+[noun] ei aktsemd aktsemda (varsemd)
+[replacement] aktsom aktsam (eller) varsam
+[replacement] aktsomhet aktsemd (eller) varsemd
+[adjective] aktuell aktuelt,aktuelle (noverande; av interesse no)
+[noun] ein akupunktur akupunkturen (nålestikkbehandling)
+[noun] ein akustikk akustikken (lydtilhøve)
+[adjective] akustisk akustiske ("akustisk gitar")
+[adjective] akutt akutte (brå,"ein akutt sjukdom")
+[noun] ein akvarell akvarellen,akvarellar,akvarellane (målarstykke i vassfargar)
+[noun] eit akvarium akvariet,akvarium,akvaria (vasstank med fisk o.l.)
+[noun] eit al alet (avl,oppdrett)
+[noun] ein alarm alarmen,alarmar,alarmane (varselsignal)
+[verb] alarmere alarmerer,alarmerte,har alarmert (varsle)
+[noun] ein albanar albanaren,albanarar,albanarane
+[noun] ein alban albanen,albanar,albanane
+[adjective] albansk albanske
+[noun] ein albatross albatrossen,albatrossar,albatrossane (fugl)
+[noun] ein albino albinoen,albinoar,albinoane (person utan fargestoff i hår,hud og auge)
+[replacement] albue olboge
+[noun] eit album albumet,album,albuma (samling av bilete (eller) songar)
+[noun] ein alder alderen,aldrar,aldrane
+[noun] ein alderdom alderdommen (eller) alderdomen
+[noun] ein aldersheim aldersheimen,aldersheimar,aldersheimane
+[verb] ale el,ol,har ale (eller) ali; (eller) aler,alte,har alt (drive oppdrett,oppfostre)
+[adjective] aleine eller åleine
+[noun] ei alen alna,alner,alnene (lengdemål = 0.6275 m)
+[noun] eit alfabet alfabetet,alfabet,alfabeta (skriftsystem)
+[adjective] alfabetisk alfabetiske ("i alfabetisk rekkefølgje")
+[noun] ein alge algen,algar,algane (plante)
+[noun] ein algebra algebraen (bokstavrekning)
+[noun] eit alibi alibiet,alibi,alibia ("ha alibi": ha prov for at ein var ein annan stad)
+[noun] ei alke alka,alker,alkene (sjøfugl)
+[noun] ein alkohol alkoholen
+[noun] ein alkoholikar alkoholikaren,alkoholikarar,alkoholikarane
+[noun] ein allé aleen,allear,alleane (veg med tre på begge sider)
+[noun] allegori allegorien,allegoriar,allegoriane (likning,biletleg framstilling)
+[replacement] allerede allereie (eller) allereie
+[noun] ein allergi allergien,allergiar,allergiane ("pollenallergi")
+[adjective] allergisk allergiske
+[noun] ein allfarveg allfarvegen (stor veg,veg for alle)
+[noun] ein allianse alliansen,alliansar,alliansane (samband,forbund)
+[verb] alliere allierer,allierte,har alliert ("alliere seg med": slå seg saman med)
+[noun] alligator alligatoren,alligatorar,alligatorane (krokodille)
+[replacement] allikevel likevel
+[adjective] allmektig allmektige ("den allmektige Gud")
+[adjective] allmenn allment,allmenne (vanleg,alminneleg); el. -> [ålmenn]
+[replacement] allmennhet allmente (eller) folk (folk flest)
+[noun] ein allmenning allmeningen,allmenningar,allmenningane ("bygdeallmenning"); (eller) -> [ålmenning]
+[noun] ei allmente allmenta (folk fles); (eller) -> ålmente
+[replacement] alminnelighet vanleg (til vanleg)
+[noun] ein allmuge allmugen (folk flest); (eller) -> [ålmuge]
+[noun] eit allmøte allmøtet,allmøte,allmøta (allmannmøte)
+[adjective] all_right all righte; (eller) -> ålreit
+[adjective] allsidig allsidige
+[noun] ein allusjon allusjonen,allusjonar,allusjonane (det å sikte til noko i eit anna diktverk)
+[noun] ein alm almen,almar,almane (tre)
+[noun] ein almanakk almanakken,almanakkar,almanakkane (kalenderbok)
+[adjective] alminneleg alminnelege (vanleg)
+[noun] ei almisse almissa,almisser,almissene (gåve til trengande)
+[adjective] alpin alpint alpine ("alpin skisport")
+[noun] ein alpinist alpinisten,alpinistar,alpinistane
+[noun] ein alt alten,altar,altane (songstemme; instrument)
+[noun] ein altan atlanen,altanar,altanane (balkong)
+[noun] eit altar altaret,altar,altara -> alter
+[noun] eit alter alteret,alter,altera (eller) altra (eller) -> altar
+[noun] eit alternativ alternativet,alternativ,alternativa (val,ulik løysing)
+[noun] ein aluminium aluminiumen; (eller) eit aluminium,aluminiumet (metallisk grunnstoff)
+[noun] ein alv alven,alvar,alvane (vakker ungjente i folketrua)
+[noun] eit alvor alvoret
+[adjective] alvorleg alvorlege (alvorsam; farleg; dyster)
+[noun] ein amatør amatøren,amatørar,amatørane (motsett: profesjonell)
+[noun] ein ambassade ambassaden,ambassadar,ambassadane
+[noun] ein ambassadør ambassadøren,ambassadørar,ambassadørane (sendemann)
+[adjective] ambisiøs ambisiøst,ambisiøse (ærgjerrig)
+[noun] ein ambisjon ambisjonen,ambisjonar,ambisjonane (hug til å gjere karriere)
+[noun] ein ambolt ambolten,amboltar,amboltane (stålblokkm til å smi på)
+[noun] ein ambulanse ambulansen,ambulansar,ambulansane (sjukebil)
+[verb] ambulere ambulerer,ambulerte,har ambulert (vandre, flytte frå stad til stad)
+[noun] ein amerikanar amerikanaren,amerikanarar,amerikanarane
+[adjective] amerikansk amerikanske
+[noun] ein amfetamin amfetaminen (narkotikum)
+[noun] eit amfi amfiet,amfi,amfia (bakre plassar i eit teater)
+[noun] eit amfibium amfibiet,amfibium,amfibia (dyr som lever både i vatn og på land)
+[verb] amme ammar,amma,har amma (gje bryst)
+[noun] ein ammoniakk ammoniakken (gass)
+[noun] ein ammunisjon ammunisjonen (skyts)
+[noun] eit amnesti amnestiet,amnesti,amnestia ("gje amnesti": ettergje straff)
+[adjective] amoralsk amoralske (umoralsk)
+[noun] ein amorin amorinen,amorinar,amorinane (liten kjærleiksgud)
+[adjective] amper ampert,ampre (krakilsk,vrang)
+[noun] ein ampulle ampullen,ampullar,ampullane (liten medisinhaldar)
+[noun] ein amputasjon amputasjonen,amputasjonar,amputasjonane
+[verb] amputere amputerer,amputerte,har amputert (skjere bort,"amputere ein fot")
